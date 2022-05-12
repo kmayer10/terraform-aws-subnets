@@ -1,0 +1,1 @@
+output "subnet_id" {}
